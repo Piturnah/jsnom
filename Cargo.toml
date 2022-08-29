@@ -1,6 +1,6 @@
 [package]
 name = "jsnom"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 description = "Small and ergonomic JSON parser library"
 categories = ["parsing"]
