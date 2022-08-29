@@ -1,0 +1,18 @@
+[package]
+name = "jsnom"
+version = "1.0.0"
+edition = "2021"
+description = "Small and ergonomic JSON parser library"
+categories = ["parsing"]
+keywords = ["json", "parser", "parsing", "small"]
+exclude = [".github/", ".gitignore"]
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+documentation = "https://docs.rs/jsnom"
+repository = "https://github.com/Piturnah/jsnom"
+authors = ["Piturnah"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nom = "7.1"
