@@ -1,8 +1,9 @@
 # JSnom
 
 [![crates.io](https://img.shields.io/crates/v/jsnom)](https://crates.io/crates/jsnom)
-[![documentation](https://img.shields.io/docsrs/jsnom/latest)](https://docs.rs/newdoku/latest/jsnom/)
+[![documentation](https://img.shields.io/docsrs/jsnom/latest)](https://docs.rs/jsnom/latest/jsnom/)
 [![license](https://img.shields.io/crates/l/jsnom)](https://crates.io/crates/jsnom)
+[![downloads](https://img.shields.io/crates/d/jsnom)](https://crates.io/crates/jsnom)
 [![stargazers](https://img.shields.io/github/stars/Piturnah/jsnom?style=social)](https://github.com/Piturnah/jsnom/stargazers)
 
 JSON parser, with a focus on small size and ergonomics.
